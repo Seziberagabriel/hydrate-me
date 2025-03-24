@@ -1,0 +1,9 @@
+try:
+    data = request.json
+    if not data or 'name' not in data or 'weight' not in data:
+        return jsonify({'error': 'Missing required fields'}), 400
+    name = data['name'].strip()
+    weight_kg = data['weight']
+    ...
+except Exception as e:
+    return jsonify({'error': str(e)}), 500
