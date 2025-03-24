@@ -13,5 +13,5 @@ This is a drinking water reminder app that provides personalized hydration remin
 ## Local Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Seziberagabriel/hydrate-me/hydrateme-app.git
+   git clone https://github.com/your-repo/hydrateme-app.git
 # hydrate-me
