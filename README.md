@@ -1,3 +1,6 @@
+# Link to my demo video
+https://youtu.be/Wj-MC8yIBqk?si=KiMMrsG1N5wY80Qw
+
 # HydrateMe App
 
 This is a drinking water reminder app that provides personalized hydration reminders based on weather conditions (temperature, humidity, and UV index) for user-specified cities using the OpenWeatherMap API.
